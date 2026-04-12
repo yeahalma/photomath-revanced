@@ -1,5 +1,3 @@
-# photomath-revanced
-
 # Installation steps:
 
 >1. Download and Install the latest [release](https://github.com/yeahalma/photomath-revanced/releases) of Photomath Revanced.
